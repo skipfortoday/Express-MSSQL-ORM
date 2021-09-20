@@ -1,0 +1,26 @@
+{
+  "name": "express-mssql-orm",
+  "version": "1.0.0",
+  "description": "mssql with sequilize and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skipfortoday/Express-MSSQL-ORM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skipfortoday/Express-MSSQL-ORM/issues"
+  },
+  "homepage": "https://github.com/skipfortoday/Express-MSSQL-ORM#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5",
+    "tedious": "^12.2.0"
+  }
+}
